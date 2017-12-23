@@ -1,3 +1,11 @@
+GIT
+  remote: git@hydejack:qwtel/hydejack-pro.git
+  revision: e471857d8246b020b124158c7517ea80eea5718e
+  branch: gem-pro
+  specs:
+    jekyll-theme-hydejack-pro (7.5.0)
+      jekyll (~> 3.6)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -53,6 +61,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.6.2)
   jekyll-feed (~> 0.6)
+  jekyll-theme-hydejack-pro!
   minima (~> 2.0)
   tzinfo-data
 
