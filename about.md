@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#### Who are you?
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hey! My name is Chase Schachenman and I am currently in my last semester at
+University of Wisconsin-Madison. I will graduate in May 2018 with a B.S. in Computer Science
+and a certificate (read 'minor') in Entrepreneurship. My main area of focus and enjoyment is
+web development, with a focus on APIs and back-end.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+#### What's on this site?
 
-
-[jekyll-organization]: https://github.com/jekyll
+This site aims to give a brief overview about me. It also provides a place for me to show off
+my projects and write about my endeavors in my blog. In addition, it's nice to be able to
+show employers that I have spent time to curate my own website.

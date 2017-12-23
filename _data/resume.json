@@ -1,0 +1,200 @@
+{
+  "basics": {
+    "name": "Chase Schachenman",
+    "label": "Software Engineering",
+    "phone": "(262) 365-1353",
+    "website": "https://chaseshak.com",
+    "summary": "Experienced Full-Stack Software Engineer and enthusiastic team player dedicated to finding the best solution to a problem and efficiently meeting project goals.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Madison",
+      "countryCode": "",
+      "region": "Wisconsin"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "chaseshak",
+        "url": "https://github.com/chaseshak"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Chase Schachenman",
+        "url": "https://www.linkedin.com/in/chase-schachenman-344421aa/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "University of Wisconsin-Madison",
+      "position": "Student Web Developer",
+      "website": "https://wisc.edu",
+      "startDate": "Oct 2017",
+      "summary": "Maintained and upgraded Ruby on Rails full-stack application.
+       Implemented new features, fixed bugs, and upgraded rails versions.",
+      "highlights": [],
+      "endDate": "Present"
+    },
+    {
+      "company": "Enova International",
+      "position": "Software Engineer Intern",
+      "website": "https://www.enova.com/2017-interns/",
+      "startDate": "May 2017",
+      "summary": "Developed backend services and RESTful APIs. Implemented new micro-service
+       calculation variables from bank data in Ruby on Rails. Updated existing services in Go
+        and Ruby on Rails. Reviewed and collaborated on code changes using Github version control.",
+      "highlights": [],
+      "endDate": "August 2017"
+    },
+    {
+      "company": "Kilter Rewards",
+      "position": "Software Developer",
+      "website": "https://kilterrewards.com",
+      "startDate": "Jun 2016",
+      "summary": "Developed custom website, which achieved 1000 unique user-signups, in
+       team-based environment using the Linux, Apache, MySQL, PHP stack. Designed MySQL
+        database and used Object-relational mapping PHP tool for database interaction.
+        Administrated and configured linux web hosting. Created and designed RESTful API
+         in Go-lang.",
+      "highlights": [],
+      "endDate": "July 2017"
+    },
+    {
+      "company": "UW-Madison, Division of Information Technology (DoIT)",
+      "position": "DoIT Help Desk Web Application Developer",
+      "website": "https://it.wisc.edu/",
+      "startDate": "Feb 2016",
+      "summary": "Full stack development for internal website. Gained experience
+      working with the LAMP (Linux, Apache, MySQL, PHP) stack and Git version control.",
+      "highlights": [],
+      "endDate": "Sep 2016"
+    },
+    {
+      "company": "UW-Madison, Division of Information Technology (DoIT)",
+      "position": "Help Desk Support Specialist",
+      "website": "https://it.wisc.edu/",
+      "startDate": "Jan 2015",
+      "summary": "Provided phone, chat, and email support. Gained customer service
+      experience and technical support experience. Advanced to Help Desk Quality
+       Assurance leadership role.",
+      "highlights": [],
+      "endDate": "Sep 2016"
+    },
+    {
+      "company": "Hewlett-Packard",
+      "position": "IT Developer/Engineer Intern",
+      "website": "",
+      "startDate": "Jun 2015",
+      "summary": "Developed release strategy and support documentation for internal mobile
+       application. Tested web forms in development server and assisted with technical
+       support of pilot migration users. Created mass-communications HTML5 internal emails.",
+      "highlights": [],
+      "endDate": "Aug 2015"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Madison",
+      "area": "",
+      "studyType": "Bachelor of Science (BS)",
+      "startDate": "2014-01-01",
+      "gpa": "3.10",
+      "courses": [],
+      "endDate": "2018-01-01"
+    },
+    {
+      "institution": "Cedarburg High School",
+      "area": "",
+      "studyType": "",
+      "startDate": "2013-01-01",
+      "gpa": "3.99",
+      "courses": [],
+      "endDate": "2014-01-01"
+    },
+    {
+      "institution": "Singapore American School",
+      "area": "",
+      "studyType": "",
+      "startDate": "2009-01-01",
+      "gpa": "N/A",
+      "courses": [],
+      "endDate": "2013-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "JQuery",
+        "Deployment"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Intermediate",
+      "keywords": [
+        "PostgreSQL",
+        "MySQL",
+        "ElasticSearch"
+      ]
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Go",
+      "level": "Beginner",
+      "keywords": []
+    },
+    {
+      "name": "API Development",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "Intermediate",
+      "keywords": [
+        "Ubuntu/Debian",
+        "ARCH"
+      ]
+    },
+    {
+      "name": "Technical Support",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Customer Service",
+      "level": "Expert",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native or bilingual proficiency"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Limited working proficiency"
+    }
+  ]
+}
